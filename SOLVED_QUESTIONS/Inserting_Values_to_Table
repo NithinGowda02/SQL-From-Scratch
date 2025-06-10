@@ -1,0 +1,8 @@
+
+INSERT INTO student(ID,name,Age,marks) VALUES(11,"Santhosh",16,86); 
+INSERT INTO student(ID,name,Age,marks) VALUES(12,"Rahul",15,85); 
+INSERT INTO student(ID,name,Age,marks) VALUES(13,"Chandan",17,92);
+INSERT INTO student(ID,name,Age,marks) VALUES(14,"Anand",15,65);
+INSERT INTO student(ID,name,Age,marks) VALUES(15,"ranjith",16,35); 
+INSERT INTO student(ID,name,Age,marks) VALUES(16,"Manvith",16,28); 
+INSERT INTO student(ID,name,Age,marks) VALUES(17,"Madhu",15,54);
