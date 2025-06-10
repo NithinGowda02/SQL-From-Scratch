@@ -1,0 +1,3 @@
+SELECT Age,AVG(marks) AS AVG_MARKS FROM student
+GROUP BY Age 
+HAVING AVG(marks)>70;
