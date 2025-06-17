@@ -1,0 +1,2 @@
+SELECT * FROM student 
+WHERE CITY NOT IN ("MYSORE");
