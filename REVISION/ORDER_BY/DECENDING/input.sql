@@ -1,0 +1,2 @@
+SELECT * FROM student 
+ORDER BY MARKS DESC;
