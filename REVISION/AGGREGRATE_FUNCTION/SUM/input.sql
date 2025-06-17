@@ -1,0 +1,1 @@
+SELECT SUM(MARKS) FROM student;
