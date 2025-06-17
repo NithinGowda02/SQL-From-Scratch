@@ -1,0 +1,1 @@
+SELECT MAX(MARKS) FROM student;
