@@ -1,0 +1,1 @@
+SELECT COUNT(NAME) FROM student;
